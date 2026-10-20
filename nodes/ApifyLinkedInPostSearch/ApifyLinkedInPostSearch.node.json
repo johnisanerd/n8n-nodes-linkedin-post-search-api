@@ -1,0 +1,38 @@
+{
+	"node": "n8n-nodes-linkedin-post-search-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Marketing"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/linkedin-post-search-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"linkedin",
+		"linkedin posts",
+		"linkedin post search",
+		"post search",
+		"keyword search",
+		"hashtag",
+		"hashtag analytics",
+		"mentions",
+		"brand mentions",
+		"social listening",
+		"social media monitoring",
+		"monitoring",
+		"research",
+		"journalism",
+		"apify"
+	]
+}
